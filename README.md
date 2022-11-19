@@ -1,3 +1,3 @@
 # HashMap
 exampleAlgorithms
-working on some self-improvement algorithms.
+working on some self improvement algorithms.
